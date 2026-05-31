@@ -313,7 +313,7 @@ export default function App() {
       <header className="bg-white border-b border-gray-100 px-6 py-5 shadow-sm">
         <div className="max-w-3xl mx-auto">
           <h1 className="text-2xl font-bold text-gray-800 tracking-tight">Personal Budget</h1>
-          <p className="text-sm text-gray-400 mt-0.5">Australian 2025–26 tax estimates included.</p>
+          <p className="text-sm text-gray-400 mt-0.5">Happy budgeting :)</p>
         </div>
       </header>
 
