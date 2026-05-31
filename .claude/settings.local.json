@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ide__getDiagnostics",
+      "WebFetch(domain:www.ato.gov.au)",
+      "Bash(git *)"
+    ]
+  }
+}
